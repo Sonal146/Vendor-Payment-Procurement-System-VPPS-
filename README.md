@@ -1,8 +1,10 @@
-# Vendor Payment & Procurement System (VPPS) — Anonymized Sample
+# Vendor Payment & Procurement System (VPPS) — Anonymized Version 
 
 
 
-> **IMPORTANT NOTICE:** This is a **portfolio demonstration project** containing anonymized and fictional business analysis artifacts. No real company data, personal information, or sensitive business details are included in this repository.
+>  
+
+  ⚠️IMPORTANT NOTICE:** This is a **portfolio demonstration project** containing anonymized and fictional business analysis artifacts. No real company data, personal information, or sensitive business details are included in this repository.
 
 ##  Project Overview
 
