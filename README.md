@@ -21,8 +21,8 @@ This repository showcases the complete business analysis lifecycle for the **Ven
 - **Project Type:** Enterprise-level process automation and digital transformation
 - **Industry:** Creative services (embroidery digitizing, vector graphics, custom patches)
 - **Project Duration:** 7 months (December 2024 - July 2025)
-- **Project Investment:** $450,000 implementation budget
-- **Business Impact:** 43% payment cycle reduction, 95% automation rate, $180,000 annual savings
+- **Project Investment:** $##0,000 implementation budget
+- **Business Impact:** 43% payment cycle reduction, 95% automation rate, $##0,000 annual savings
 
 ### Data Confidentiality Statement
 In compliance with professional ethics and contractual obligations:
