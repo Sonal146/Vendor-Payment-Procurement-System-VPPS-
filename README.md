@@ -13,7 +13,7 @@
 
 > **IMPORTANT DISCLOSURE:** This repository contains documentation from a **real-world business analysis project** that was successfully implemented in a production environment. Due to contractual obligations and confidentiality agreements, all sensitive data including company names, personal information, financial figures, vendor details, and proprietary system information has been anonymized, altered, or replaced with representative placeholders while maintaining the authentic structure and methodology of the original project.
 
-## 🏢 Project Background
+##  Project Background
 
 This repository showcases the complete business analysis lifecycle for the **Vendor Payment & Procurement System (VPPS)**, a comprehensive back-end automation initiative that was designed and implemented to centralize procurement processes, vendor onboarding, 3-way matching (PO/GRN/Invoice), payment scheduling, and optimized payment-run generation.
 
@@ -26,14 +26,14 @@ This repository showcases the complete business analysis lifecycle for the **Ven
 
 ### Data Confidentiality Statement
 In compliance with professional ethics and contractual obligations:
-- ✅ **Real methodology and processes** are accurately represented
-- ✅ **Authentic project structure** and documentation standards maintained
-- ✅ **Genuine business analysis techniques** and deliverables showcased
-- ❌ **Company names, personal data, and financial specifics** have been anonymized
-- ❌ **Proprietary system details and vendor information** have been altered
-- ❌ **Sensitive business relationships and contracts** have been redacted
+-  **Real methodology and processes** are accurately represented
+-  **Authentic project structure** and documentation standards maintained
+- **Genuine business analysis techniques** and deliverables showcased
+- **Company names, personal data, and financial specifics** have been anonymized
+- **Proprietary system details and vendor information** have been altered
+-  **Sensitive business relationships and contracts** have been redacted
 
-## 📋 Project Overview
+##  Project Overview
 
 ### Business Challenge
 The organization faced significant operational inefficiencies in their manual procurement and payment processes:
@@ -58,50 +58,50 @@ The organization faced significant operational inefficiencies in their manual pr
 - **Cost Savings:** $180,000 annual operational improvements
 - **ROI Achievement:** 3-year NPV of $285,000 with 2.5-year payback
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 VPPS-Business-Analysis/
-├── 📄 README.md                           # This comprehensive project guide
-├── 📜 LICENSE                             # MIT License with confidentiality notice
+├──  README.md                           # This comprehensive project guide
+├──  LICENSE                             # MIT License with confidentiality notice
 │
-├── 📋 01-Core-Documents/
-│   ├── 📄 Project_Charter.pdf             # Executive project definition
-│   ├── 📊 BRD_VPPS_Complete.pdf           # Business Requirements (PDF)
-│   ├── 📊 BRD_VPPS_Detailed.md            # Business Requirements (Markdown)
-│   ├── ⚙️ FRD_VPPS_Complete.pdf           # Functional Requirements (PDF)
-│   ├── ⚙️ FRD_VPPS_Complete.md            # Functional Requirements (Markdown)
-│   ├── 🏗️ SDD_VPPS_Complete.pdf           # System Design (PDF)
-│   ├── 🏗️ SDD_VPPS_Architecture.md        # System Design (Markdown)
-│   ├── ✅ TPD_VPPS_Complete.pdf           # Test Plan (PDF)
-│   ├── ✅ TPD_VPPS_TestPlan.md            # Test Plan (Markdown)
-│   ├── 🚀 PIG_VPPS_Complete.pdf           # Implementation Guide (PDF)
-│   └── 🚀 PIG_VPPS_Implementation.md      # Implementation Guide (Markdown)
+├──  01-Core-Documents/
+│   ├──  Project_Charter.pdf             # Executive project definition
+│   ├──  BRD_VPPS_Complete.pdf           # Business Requirements (PDF)
+│   ├──  BRD_VPPS_Detailed.md            # Business Requirements (Markdown)
+│   ├──  FRD_VPPS_Complete.pdf           # Functional Requirements (PDF)
+│   ├──  FRD_VPPS_Complete.md            # Functional Requirements (Markdown)
+│   ├──  SDD_VPPS_Complete.pdf           # System Design (PDF)
+│   ├──  SDD_VPPS_Architecture.md        # System Design (Markdown)
+│   ├──  TPD_VPPS_Complete.pdf           # Test Plan (PDF)
+│   ├──  TPD_VPPS_TestPlan.md            # Test Plan (Markdown)
+│   ├──  PIG_VPPS_Complete.pdf           # Implementation Guide (PDF)
+│   └──  PIG_VPPS_Implementation.md      # Implementation Guide (Markdown)
 │
-├── 📊 02-Technical-Specifications/
-│   ├── 🗄️ MySQL_DDL_VPPS_v1.sql          # Complete database schema
-│   ├── 📝 JIRA_UserStories_VPPS.csv       # 27 development-ready user stories
-│   ├── ✅ UAT_TestCases_VPPS.xlsx         # 20 comprehensive test scenarios
-│   ├── 🔄 AS-IS_VPPS_Process.xml          # Current state BPMN workflow
-│   ├── 🔄 TO-BE_VPPS_Process.xml          # Future state BPMN workflow
-│   └── 📊 BI_Specification.md             # Business intelligence requirements
+├──  02-Technical-Specifications/
+│   ├──  MySQL_DDL_VPPS_v1.sql          # Complete database schema
+│   ├──  JIRA_UserStories_VPPS.csv       # 27 development-ready user stories
+│   ├──  UAT_TestCases_VPPS.xlsx         # 20 comprehensive test scenarios
+│   ├──  AS-IS_VPPS_Process.xml          # Current state BPMN workflow
+│   ├──  TO-BE_VPPS_Process.xml          # Future state BPMN workflow
+│   └──  BI_Specification.md             # Business intelligence requirements
 │
-├── 🖼️ 03-Visual-Assets/
-│   ├── 📈 AS-IS_VPPS.png                  # Current manual process diagram
-│   ├── 🚀 TO-BE_VPPS.png                  # Automated process flow diagram
-│   ├── 🗃️ ERD_VPPS.png                    # Database entity relationship diagram
-│   ├── 🖥️ Portal_Wireframe.png            # Supplier portal interface mockup
-│   ├── 💳 PaymentRun_UI.png               # Payment processing UI wireframe
-│   └── 📊 BI_Dashboard.png                # Business intelligence dashboard mockup
+├──  03-Visual-Assets/
+│   ├──  AS-IS_VPPS.png                  # Current manual process diagram
+│   ├──  TO-BE_VPPS.png                  # Automated process flow diagram
+│   ├──  ERD_VPPS.png                    # Database entity relationship diagram
+│   ├── Portal_Wireframe.png            # Supplier portal interface mockup
+│   ├──  PaymentRun_UI.png               # Payment processing UI wireframe
+│   └──  BI_Dashboard.png                # Business intelligence dashboard mockup
 │
-└── 📖 04-Documentation/
-    ├── 📋 Project_Methodology.md          # BA methodology and approach used
-    ├── 📊 Metrics_and_KPIs.md             # Success metrics and measurement
-    ├── 🎯 Lessons_Learned.md              # Project insights and recommendations
-    └── 📚 Glossary.md                     # Technical terms and definitions
+└──  04-Documentation/
+    ├──  Project_Methodology.md          # BA methodology and approach used
+    ├──  Metrics_and_KPIs.md             # Success metrics and measurement
+    ├──  Lessons_Learned.md              # Project insights and recommendations
+    └── Glossary.md                     # Technical terms and definitions
 ```
 
-## 🎯 Business Analysis Methodology
+##  Business Analysis Methodology
 
 ### Requirements Engineering Approach
 This project demonstrates expertise in comprehensive requirements management:
@@ -137,7 +137,7 @@ This project demonstrates expertise in comprehensive requirements management:
 - **Risk-Based Testing:** Prioritized testing approach focusing on high-impact scenarios
 - **User Acceptance Testing:** Business-driven validation with clear acceptance criteria
 
-## 🏆 Professional Capabilities Demonstrated
+##  Professional Capabilities Demonstrated
 
 ### Core Business Analysis Skills
 - ✅ **Requirements Elicitation & Documentation:** Comprehensive stakeholder engagement and structured requirement capture
