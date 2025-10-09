@@ -1,5 +1,6 @@
 # Vendor Payment & Procurement System (VPPS) — Anonymized Version 
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/33c6d869-143b-42f6-92c2-98699adf81ad" />
 
 
 >  
