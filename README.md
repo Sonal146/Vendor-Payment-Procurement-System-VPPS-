@@ -242,7 +242,7 @@ This project demonstrates expertise in comprehensive requirements management:
 - **Payment Cycle Time:** Target ≤17 days (achieved 43% reduction)
 - **Early Payment Discount Capture:** Target ≥80% utilization
 - **Cost per Transaction:** Target 50% reduction
-- **Working Capital Improvement:** $195,000 cash flow optimization
+- **Working Capital Improvement:** $###,000 cash flow optimization
 
 ### Operational KPIs
 - **3-Way Match Automation Rate:** Target ≥95% (achieved)
@@ -402,10 +402,10 @@ When using this work for reference or inspiration:
 
 ### Project Scope Metrics
 - **Timeline:** 7-month implementation (28 weeks)
-- **Budget:** $450,000 total project investment
+- **Budget:** $###,000 total project investment
 - **Team Size:** 12+ core team members across multiple disciplines
 - **Stakeholders:** 15+ engaged stakeholders from executive to operational levels
-- **Business Impact:** $180,000 annual savings with $285,000 3-year NPV
+- **Business Impact:** $###,000 annual savings with $###,000 3-year NPV
 
 ### Documentation Coverage
 - **Business Requirements:** 100% functional requirement documentation
