@@ -451,7 +451,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ##  Professional Contact
 
 **Sonal M. Khobragade**  
-Business Analyst | Data Analytics Professional  
+Business Analyst 
 ksonal055@gmail.com 
  www.linkedin.com/in/sonal-mk 
  
